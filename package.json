@@ -1,0 +1,21 @@
+{
+  "name": "redux-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mellison8186/redux-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mellison8186/redux-store/issues"
+  },
+  "homepage": "https://github.com/Mellison8186/redux-store#readme"
+}
